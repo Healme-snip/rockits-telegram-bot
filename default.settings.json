@@ -1,0 +1,11 @@
+{
+  "tg": {
+    "token": "0000000000:AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+  },
+  "gsheet": {
+    "secret_file": "secret.json",
+    "spreadsheet_title": "Тестовое задание",
+    "worksheet_title": "bot-rows",
+    "writer_emails": ["Rickeymills15@gmail.com"]
+  }
+}
